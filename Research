@@ -1,0 +1,40 @@
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    cout << "================================\n";
+    cout << "       A LETTER FOR JENNY       \n";
+    cout << "================================\n\n";
+
+    cout << "Dear Jenny,\n\n";
+
+    cout << "I don't know what the future holds\n";
+    cout << "for us, but I want you to know that\n";
+    cout << "I am willing to wait for you.\n\n";
+
+    cout << "I won't rush you or force you to\n";
+    cout << "make a decision. Take all the time\n";
+    cout << "you need. I will respect your pace.\n\n";
+
+    cout << "Even if it takes time, my feelings\n";
+    cout << "for you are genuine. I would rather\n";
+    cout << "wait for something real than rush\n";
+    cout << "something beautiful.\n\n";
+
+    cout << "I hope that someday, the waiting\n";
+    cout << "will be worth it, and we can finally\n";
+    cout << "have the chance to be together.\n\n";
+
+    cout << "Until then, please take care of yourself.\n\n";
+
+    cout << "With all my heart,\n";
+    cout << "Someone who is willing to wait for you.\n\n";
+
+    cout << "================================\n";
+    cout << "          I LOVE YOU, JENNY <3  \n";
+    cout << "================================\n";
+
+    return 0;
+}
